@@ -1,144 +1,36 @@
-# 🐍 Halo, Saya [Nama Anda]! 
+# Hi there! 👋 I'm [Your Name]
 
-```
-    🐍💨        Selamat datang di profil GitHub saya!
-   ~~~           Saya sedang meluncur mencari kode yang menarik...
-```
+## 🚀 About Me
+Passionate developer who loves creating web applications and exploring new technologies.
 
-## 🎯 Tentang Saya
+## 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nama Anda"
-        self.role = "Software Developer"
-        self.language_spoken = ["id_ID", "en_US"]
-        self.current_focus = ["Web Development", "Python", "JavaScript"]
-        
-    def say_hi(self):
-        print("Terima kasih sudah mengunjungi profil saya! 🐍✨")
-
-me = Developer()
-me.say_hi()
-```
-
-## 🐍 Tech Stack Yang Saya Kuasai
-
-```
-🐍 Python     ████████████████████████████████████████ 95%
-🌐 JavaScript ███████████████████████████████████████░ 90%
-⚛️  React     ██████████████████████████████████░░░░░░ 85%
-🎨 CSS        ████████████████████████████████░░░░░░░░ 80%
-🗄️ SQL        ███████████████████████████████░░░░░░░░░ 75%
-```
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Snake
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=dark&hide_border=true)
-
-</div>
-
-## 🐍 Ular Sedang Mencari Commit...
-
-```
-🐍💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨💨
-                                                             🎯 Target: 365 commits
-```
-
-### 📈 Aktivitas Coding
-
-```
-Senin    🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍 ████████████████████ 100%
-Selasa   🐍🐍🐍🐍🐍🐍🐍🐍░░░░ ████████████████░░░░  80%
-Rabu     🐍🐍🐍🐍🐍🐍🐍🐍🐍░░░ ██████████████████░░  90%
-Kamis    🐍🐍🐍🐍🐍🐍🐍░░░░░░░ ██████████████░░░░░░  70%
-Jumat    🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍 ████████████████████ 100%
-Sabtu    🐍🐍🐍🐍🐍🐍░░░░░░░░░ ████████████░░░░░░░░  60%
-Minggu   🐍🐍🐍🐍🐍░░░░░░░░░░░ ██████████░░░░░░░░░░  50%
-```
-
-## 🚀 Project Terbaru
-
-### 🐍 Snake Game
-```python
-def main():
-    snake = Snake()
-    while snake.is_alive():
-        snake.move()
-        snake.eat_food()
-        snake.grow()
-    return "Game Over! 🎮"
-```
-
-### 🌐 Web App
-```javascript
-const myProjects = {
-    frontend: ['React', 'Vue', 'Vanilla JS'],
-    backend: ['Node.js', 'Python Flask', 'Express'],
-    database: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    tools: ['Git', 'Docker', 'VS Code']
-};
-```
-
-## 🎨 Hobi & Minat
-
-```
-🎮 Gaming        ████████████████████ 100%
-📚 Learning      ███████████████████░  95%
-🎵 Music         ██████████████████░░  90%
-🍕 Pizza         █████████████████████ 105%
-☕ Coffee        ████████████████████░  99%
-```
-
-## 🐍 Quote Favorit
-
-> *"Kode seperti humor. Ketika Anda harus menjelaskannya, itu buruk."*
-> 
-> – Cory House
-
-```
-    🐍💭 "Debugging adalah seperti menjadi detektif dalam cerita kriminal 
-         di mana Anda juga adalah pembunuhnya." 🔍
-```
-
-## 📫 Hubungi Saya
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://yourportfolio.com)
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-## 🐍 Snake Trail
+## 📂 Featured Projects
+- 🌐 [web_git](https://github.com/YOUR_GITHUB_USERNAME/web_git) - Tutorial sederhana web git
+- 💼 [tugas_softdevku](https://github.com/YOUR_GITHUB_USERNAME/tugas_softdevku) - Software development assignments
+- 🏗️ [webstrukin](https://github.com/YOUR_GITHUB_USERNAME/webstrukin) - Web structure project
+- 🚀 [react-landing-page-gem](https://github.com/YOUR_GITHUB_USERNAME/react-landing-page-gem) - React landing page
+- 🌐 [simple-site-launchpad-pro](https://github.com/YOUR_GITHUB_USERNAME/simple-site-launchpad-pro) - Simple site launcher
+- 📝 [fikriae](https://github.com/YOUR_GITHUB_USERNAME/fikriae) - Personal project
 
-```
-Terima kasih sudah berkunjung! Jangan lupa follow ya! 🌟
-
-    🐍💨
-   ~~~
-  🐍💨💨
- ~~~~
-🐍💨💨💨
-~~~~~~~
-      
-📊 Profile Views: ![Visitor Count](https://profile-counter.glitch.me/USERNAME_ANDA/count.svg)
-```
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</div>
-
-<div align="center">
-
-*🐍 "Coding is not just my job, it's my passion!" 🚀*
-
-</div>
+⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)

@@ -21,7 +21,7 @@ Passionate developer who loves creating web applications and exploring new techn
 
 <div align="center">
 
-![snake gif](https://github.com/fikriae/fikriae/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

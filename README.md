@@ -9,11 +9,17 @@ Passionate developer who loves creating web applications and exploring new techn
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 📊 GitHub Stats & Contribution Snake
+## 📊 GitHub Stats
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikriae&show_icons=true&theme=dark&hide_border=true)
+
+</div>
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/fikriae/fikriae/output/github-contribution-grid-snake-dark.svg)
 

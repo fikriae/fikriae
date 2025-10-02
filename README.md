@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Fikriae
 
 ## 🚀 About Me
 Passionate developer who loves creating web applications and exploring new technologies.

@@ -13,24 +13,24 @@ Passionate developer who loves creating web applications and exploring new techn
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikriae&show_icons=true&theme=dark&hide_border=true)
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/fikriae/fikriae/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ## 📂 Featured Projects
-- 🌐 [web_git](https://github.com/YOUR_GITHUB_USERNAME/web_git) - Tutorial sederhana web git
-- 💼 [tugas_softdevku](https://github.com/YOUR_GITHUB_USERNAME/tugas_softdevku) - Software development assignments
-- 🏗️ [webstrukin](https://github.com/YOUR_GITHUB_USERNAME/webstrukin) - Web structure project
-- 🚀 [react-landing-page-gem](https://github.com/YOUR_GITHUB_USERNAME/react-landing-page-gem) - React landing page
-- 🌐 [simple-site-launchpad-pro](https://github.com/YOUR_GITHUB_USERNAME/simple-site-launchpad-pro) - Simple site launcher
-- 📝 [fikriae](https://github.com/YOUR_GITHUB_USERNAME/fikriae) - Personal project
+- 🌐 [web_git](https://github.com/fikriae/web_git) - Tutorial sederhana web git
+- 💼 [tugas_softdevku](https://github.com/fikriae/tugas_softdevku) - Software development assignments
+- 🏗️ [webstrukin](https://github.com/fikriae/webstrukin) - Web structure project
+- 🚀 [react-landing-page-gem](https://github.com/fikriae/react-landing-page-gem) - React landing page
+- 🌐 [simple-site-launchpad-pro](https://github.com/fikriae/simple-site-launchpad-pro) - Simple site launcher
+- 📝 [fikriae](https://github.com/fikriae/fikriae) - Personal project
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/fikriae)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/fikriae)
 
 ---
 
-⭐️ From [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [fikriae](https://github.com/fikriae)
